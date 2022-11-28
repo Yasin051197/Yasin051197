@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **html,css,js,nodejs,react.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/yasim-jamadar-8a3a91209/**
+- 📫 How to reach me **[https://www.linkedin.com/in/yasim-jamadar-8a3a91209/](https://www.linkedin.com/in/yasim-jamadar-8a3a91209/)**
 
 - 📄 Know about my experiences [https://github.com/Yasin051197/Yasim.github.io](https://github.com/Yasin051197/Yasim.github.io)
 
