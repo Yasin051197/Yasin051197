@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **html,css,js,nodejs,react.js**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/yasim-jamadar-8a3a91209/](https://www.linkedin.com/in/yasim-jamadar-8a3a91209/)**
+- 📫 How to reach me **https://www.linkedin.com/in/yasim-jamadar-8a3a91209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkAIsv1H2QGKl0U765ZHR5w%3D%3D**
 
 - 📄 Know about my experiences [https://github.com/Yasin051197/Yasim.github.io](https://github.com/Yasin051197/Yasim.github.io)
 
@@ -20,7 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yasim jamadar" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/yasim-jamadar-8a3a91209)" alt="yasim jamadar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasim-jamadar-8a3a91209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasim jamadar" height="30" width="40" /></a>
+
 <a href="https://instagram.com/ya_sin_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_sin_07" height="30" width="40" /></a>
 </p>
 
