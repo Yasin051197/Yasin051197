@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yasin051197/Yasim.github.io](https://github.com/Yasin051197/Yasim.github.io)
 
-- 💬 Ask me about **html,css,js,nodejs,react.js**
-
-- 📫 How to reach me **https://www.linkedin.com/in/yasim-jamadar-8a3a91209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkAIsv1H2QGKl0U765ZHR5w%3D%3D**
+- 💬 Ask me about **html,css,javaScript,React.js,Next.js,Nodejs,Express.js,MongoDB**
 
 - 📄 Know about my experiences [https://github.com/Yasin051197/Yasim.github.io](https://github.com/Yasin051197/Yasim.github.io)
 
