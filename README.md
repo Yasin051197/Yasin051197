@@ -29,10 +29,7 @@
 - ⚡ Fun fact **play video games**
 
 <h3 fontWight="bold">Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/yasim-jamadar-8a3a91209/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasim jamadar" height="50" width="50" />
-  </a>
+<p><a href="https://www.linkedin.com/in/yasim-jamadar-8a3a91209/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasim jamadar" height="50" width="50" /></a>
   <a  href="https://instagram.com/ya_sin_07" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_sin_07" height="50" width="50" />
 </p>
