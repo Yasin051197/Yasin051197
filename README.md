@@ -26,15 +26,15 @@
 - ⚡ Fun fact **play video games**
 
 <h3 fontWight="bold">Connect with me:</h3>
-<p><a href="https://www.linkedin.com/in/yasim-jamadar-8a3a91209/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasim jamadar" height="50" width="50" /></a>
+<p ><a href="https://www.linkedin.com/in/yasim-jamadar-8a3a91209/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasim jamadar" height="50" width="50" /></a>
   <a  href="https://instagram.com/ya_sim_07" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya_sin_07" height="50" width="50" />
 </p>
 
-
 <h3 >Languages and Tools:</h3>
-<p align="center"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<div style="display: flex; justify-content: center;">
+    <p align="center" style="flex: 1;">
+         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80" style="margin-right: 20px"/> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -55,7 +55,9 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80" style="margin-right: 20px"/> 
     </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    </p>
+    <p align="center" style="flex: 1;">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80" style="margin-right: 20px"/> 
     </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -73,6 +75,12 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="microsoftsqlserver" width="80" height="80" style="margin-right: 20px"/> 
     </a> 
+    </p>
+</div>
+
+<p align="center"> 
+   
+    
 </p>
 
 
